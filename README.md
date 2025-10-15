@@ -1,1 +1,12 @@
 # ProgettoMisfits
+
+## Link Dataset
+- [**3D2cut Single Guyot Dataset**](https://zenodo.org/records/7679898): This dataset consists of 1511 grapevine images, fully and precisely annotated with the vine plant structure information;
+- [**High resolution LiDAR dataset acquired using UAV in Spain**](https://zenodo.org/records/8113105): This dataset features an extensive collection of LiDAR data from vineyards in northern Spain, targeting vineyards to address the growing demand for public UAV LiDAR datasets in Agricultural Sciences;
+- [**Grapevine Point Cloud Dataset Acquired via Terrestrial Laser Scanning at Multiple Phenological Stages**](https://zenodo.org/records/16751664?utm_source=chatgpt.com): The dataset provides three-dimensional point clouds obtained by terrestrial laser scanning (TLS) for the structural monitoring of grapevines (Vitis vinifera L.) across nine distinct phenological stages, from April 2024 to January 2025;
+- [**Buds-Dataset**](https://github.com/humain-lab/Buds-Dataset/tree/main): The dataset is proposed for grapevine plants skeleton segmentation for the purpose of grapevine pruning. Based on this dataset a computer vision solution could be implemented for grapevine skeleton segmentation and pruning with a robot sup-port.
+
+## Paper
+- [**Visual Servoing for Vine Pruning Based on Point Cloud Alignment**](): This paper addresses the challenge of vine pruning, a crucial and laborious task in agriculture, using robotic technologies and vision based feedback control;
+- [**Robotic Grapevine Winter Pruning through Vision and AI**](): This thesis encompasses two developed approaches that target using a robotic system to perform grapevine winter pruning, using a vision system and artificial intelligence;
+- [**Research on Grapevine Recognition, Manipulation and Winter Pruning Automation**](): The main purpose of this thesis is to develop and test autonomous robot systems to realize the perceptual identification and inference of grapevines and then perform the pruning manipulation with the aim to automate grapevine winter pruning.
