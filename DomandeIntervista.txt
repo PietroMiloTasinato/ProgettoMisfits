@@ -1,0 +1,23 @@
+Noi siamo un gruppo di studenti che vorrebbero realizzare un progetto innovativo nel settore agritech con particolare focus sulle applicazioni nel settore vitivinicolo, e vorremmo proporvi una soluzione software che permetta la potatura autonoma della pianta.
+
+Domande agricoltori:
+-Qual'e' il tuo ruolo all'interno dell'azienda
+-Dimensione del vigneto
+-Su quale settore del mercato finisce la vostra uva? Tavola, vino, altro?
+-Come consideri l'ultima vendemmia rispetto agli altri anni? (misura spannometrica dei litri di vino)
+-Che importanza date alla potatura sulla quantita' e qualita' finale dell'uva?
+-Quali sono state le principali difficolta' nella gestione della potatura?
+-Come viene svolta la potatura del vostro vigneto? (a mano, con strumenti automatici o una via di mezzo)
+-In genere, quanto tempo impiegate per potare il vigneto? (giorni,settimane,...)
+-Negli ultimi anni ha notato variazioni nei tempi o nei modi di potatura?
+-Ti ritieni soddisfatto dalla qualita' delle ultimme potature?
+-Nella tua azienda chi si occupa della potatura (interni, lavoratori stagionali, aziende esterne, altro)
+	-In caso di operai interni: come si sono formati? (scuole, apprendimento sul campo, ibrido)
+-Conosci gia' delle aziende attive nel campo della potatura della vite?
+-
+
+
+domande scuole di potatura:
+-
+-utilizzate gia' delle app per migliorare l'apprendimento dei vostri studenti?
+-
