@@ -1,0 +1,15 @@
+Sono descritte nel pdf 6-analisi di mercato ma e' necessario uno studio piu' accurato per capire cosa sia effettivamente utile da includere e cosa invece e' ridondante/puo' essere ricavato da altri dati/analisi
+
+Tasso di competitivita' calcolato con: Indice di concentrazione delle quattro imprese e  Indice di Herfindahl-Hirschman
+Forze competitive di Porter
+Analisi SWOT
+Matrice dei competitor BCG
+Curva di valore
+analizzare possibili minacce da parte di prodotti sostitutivi (magari robot umanoidi?)
+analizzare il potere contrattuale dei fornitori
+come fare del settore dell'agritech nel campo vitivinicolo un Blue Ocean invece di un Red Ocean?
+Studiare i trend del mercato seguendo il protocollo PESTEL (il PESTEL e' molto generale, magari cercare in rete un modello per studiare i tred che sia un po' piu' specifico)
+
+
+-Alcune delle roblematiche legate all'ingresso nel mercato: lta concentrazione in alcune zone del paese per godere del marchio DOP e DOC, aziende prevalentemente a conduzione familiare, alcuni players sono presenti sul mercato da molti anni -> questi players molto persistenti sul mercato innovano oppure no? E se innovano, che tipo di innovazione adottano (di processo o di prodotto)?
+-Capire se le politiche pubbliche incentivano o disincentivano l'innovazione in campo vitivinicolo (o agricolo se non sono diponibili informazioni abbastanza dettagliate): ad esempio si mettono a disposizione dei capitali pubblici oppure si riducono le tasse per le aziende che innovano oppure si incentivano le aziende che non lo fanno (cercare su documenti di giornale oppure cercare opinioni di esperti del settore)
