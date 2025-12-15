@@ -156,6 +156,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+enrico_env/
 
 # Spyder project settings
 .spyderproject
@@ -214,3 +215,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#MACOS DS_STORE
+.DS_STORE
